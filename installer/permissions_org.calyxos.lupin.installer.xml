@@ -6,5 +6,6 @@
 <permissions>
     <privapp-permissions package="org.calyxos.lupin.installer">
         <permission name="android.permission.INSTALL_PACKAGES" />
+        <permission name="com.android.permission.INSTALL_EXISTING_PACKAGES" />
     </privapp-permissions>
 </permissions>
