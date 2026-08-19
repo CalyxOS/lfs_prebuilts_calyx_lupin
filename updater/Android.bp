@@ -29,6 +29,10 @@ android_app_import {
     apk: "updater-release.apk",
     certificate: ":org.calyxos.lupin.updater.certificate",
     product_specific: true,
+    optional_uses_libs: [
+        "androidx.window.extensions",
+        "androidx.window.sidecar",
+    ],
     required: [
         "allowlist_org.calyxos.lupin.updater",
         "default-permissions_org.calyxos.lupin.updater"
