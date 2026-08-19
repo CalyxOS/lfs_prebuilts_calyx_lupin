@@ -33,6 +33,10 @@ android_app_import {
     default_dev_cert: true,
     privileged: true,
     product_specific: true,
+    optional_uses_libs: [
+        "androidx.window.extensions",
+        "androidx.window.sidecar",
+    ],
     required: [
         "allowlist_org.calyxos.lupin.installer",
         "default-permissions_org.calyxos.lupin.installer",
