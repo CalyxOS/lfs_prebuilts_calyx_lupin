@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c8e69927_8f92f05b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2026-09-24T23:01:17Z",
+      "side": 1,
+      "message": "Simply rebuilt the apk, copying votes from the previous patchset.",
+      "revId": "d40657d8b4e6f60be8eecb945c8563d430841c4d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
